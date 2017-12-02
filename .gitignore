@@ -1,0 +1,15 @@
+target
+*.class
+.gradle
+.idea
+.settings
+.checkstyle
+.classpath
+.factorypath
+.fbprefs
+.project
+*.sdocml
+*.iml
+*.ipr
+*.iws
+*.log
