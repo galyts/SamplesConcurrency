@@ -7,7 +7,7 @@ import java.util.concurrent.PriorityBlockingQueue;
  * @author Volodymyr Kvashenko
  * Created on 02.12.2017.
  */
-public class QueuesExample {
+class QueuesExample {
 
     public static void main(String[] args) {
         BlockingQueue<String> queue = new PriorityBlockingQueue<>();
